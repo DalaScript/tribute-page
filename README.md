@@ -1,4 +1,4 @@
-# [project's title] | FCC Responsive Web Design Certification
+# Tribute Page *(Certification Project)* | FCC Responsive Web Design Certification
 
 **Project 10/20**
 
@@ -53,7 +53,7 @@
 
 ### 🔜 Next Project
 
- - [next project's title] | *[Project [part]/20]* → [View Repository]([next project's repository link])
+ - Balance Sheet | *[Project 11/20]* → [View Repository](https://github.com/DalaScript/balance-sheet)
 
 ---
 
