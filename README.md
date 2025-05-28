@@ -38,9 +38,9 @@ A tribute page dedicated to Albert Einstein, built as part of the FCC Responsive
 
  - ✅ Fully responsive layout
  - ✅ Semantic HTML structure with accessible elements
- - ✅ Highlighted historical timeline using styled <ul> and <li>
+ - ✅ Highlighted historical timeline using styled `<ul>` and `<li>`
  - ✅ Embedded figure with image and caption
- - ✅ Reusable utility classes (.text-c) for consistency
+ - ✅ Reusable utility classes (`.text-c`) for consistency
  - ✅ Custom hover effects and color themes
 
 ## 🧠 My Process
